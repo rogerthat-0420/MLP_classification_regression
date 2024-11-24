@@ -1,4 +1,4 @@
-# Assignment 3 Report
+# Report
 
 ## 2. Multi Layer Perceptron Classification
 
